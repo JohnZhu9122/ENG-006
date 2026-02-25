@@ -1,0 +1,1 @@
+%Logging.m%m = mobiledev;m.Logging = 1;%The pause let the mobile during about 10 seocnd as paper askedpause(10);m.logging = 0;accellog(m)plotAccelerometer
